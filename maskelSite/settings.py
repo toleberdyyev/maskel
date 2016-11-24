@@ -25,7 +25,7 @@ SECRET_KEY = 'n*28xb=$d4x1fa_*+@f#^fcd#177-jgy57bn)n()f!+cod4cu+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [tas,'maskel.pythonanywhere.com']
 
 
 # Application definition
